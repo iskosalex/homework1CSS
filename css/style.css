@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif, Arial, Helvetica;
+    font-size: 140%;
+}
+header{
+    background-color: ivory;
+}
+nav{
+    background-color: peachpuff;
+}
+main{
+    background-color: lightcyan;
+    font-size: 110%;
+}
+footer{
+    background-color: lavender;
+    font-style: italic;
+}
+li{
+    display: block;
+    width: fit-content;
+}
+h1{
+    text-align: justify;
+    font-family: Verdana, Tahoma;
+    color: blue;
+}
+p{
+    line-height: 1.5 ;
+}
